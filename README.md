@@ -1,5 +1,9 @@
 # PRODIGY_ML_01
 <p>
+<p align="center">
+  <img src="https://github.com/Stevenwaheed/PRODIGY_ML_01/assets/83607748/f77bafd1-76eb-49a3-a6f8-2c1d59aa344e">
+</p>
+  
 I performed a house price prediction task using a dataset from Kaggle. 
 The dataset initially contained 80 features, but I selected only the numerical features for analysis.
 These included various measurements related to the house's area, rooms, bathrooms, garage, and outdoor spaces, along with the target variable, which is the sale price.
