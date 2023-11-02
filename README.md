@@ -14,9 +14,17 @@ Scaling helps to give equal importance to each feature during the model learning
 Using the scaled features, I built a Linear Regression model to predict the house prices. 
 The model learned a function that estimates the sale price based on the selected features.
 
+<p align="center">
+  <img src="https://github.com/Stevenwaheed/PRODIGY_ML_01/assets/83607748/2a693dad-2217-4232-884b-0330e23ef997">
+</p>
+
 To evaluate the performance of the model, I calculated the mean absolute error (MAE). 
 The MAE quantifies the average difference between the predicted sale prices and the actual sale prices of the houses. 
 In my case, the calculated MAE was 26680.44.
+
+<p align="center">
+  <img src="https://github.com/Stevenwaheed/PRODIGY_ML_01/assets/83607748/98739ba7-20bc-4e87-9caf-1bdb5de1034f">
+</p>
 
 Overall, I used data preprocessing techniques, built a Linear Regression model, and assessed its performance using the MAE metric to predict house prices based on the selected numerical features.
 </p>
