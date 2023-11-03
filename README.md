@@ -15,7 +15,7 @@ Using the scaled features, I built a Linear Regression model to predict the hous
 The model learned a function that estimates the sale price based on the selected features.
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/Stevenwaheed/PRODIGY_ML_01/assets/83607748/2a693dad-2217-4232-884b-0330e23ef997">
+  <img width="600" height="500" src="https://github.com/Stevenwaheed/PRODIGY_ML_01/assets/83607748/2a693dad-2217-4232-884b-0330e23ef997">
 </p>
 
 To evaluate the performance of the model, I calculated the mean absolute error (MAE). 
