@@ -23,7 +23,7 @@ The MAE quantifies the average difference between the predicted sale prices and 
 In my case, the calculated MAE was 26680.44.
 
 <p align="center">
-  <img width="500" height="600" src="https://github.com/Stevenwaheed/PRODIGY_ML_01/assets/83607748/98739ba7-20bc-4e87-9caf-1bdb5de1034f">
+  <img width="500" height="300" src="https://github.com/Stevenwaheed/PRODIGY_ML_01/assets/83607748/98739ba7-20bc-4e87-9caf-1bdb5de1034f">
 </p>
 
 Overall, I used data preprocessing techniques, built a Linear Regression model, and assessed its performance using the MAE metric to predict house prices based on the selected numerical features.
